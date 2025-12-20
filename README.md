@@ -1,6 +1,6 @@
 # Complete Disc*** Missions
-For personal use.
-Based of https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb
+For personal use.<br>
+Based of https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb<br><br>
 
 
 ```js
