@@ -1,7 +1,6 @@
 # Complete Disc*** Missions
 Implementation of https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb for personal use.
-<details>
-<summary>Click to expand code</summary>
+
 
 ```js
 delete window.$;
@@ -171,4 +170,3 @@ if(quests.length === 0) {
 	doJob()
 }
 ```
-</details>
