@@ -1,5 +1,4 @@
 import os
-import json
 
 appdata_path = os.getenv('APPDATA')
 settings_path = os.path.join(appdata_path, 'discord', 'settings.json')
@@ -23,4 +22,5 @@ try:
         print("Key already exists in file.")
 
 except Exception as e:
+
     print(f"Error: {e}")
