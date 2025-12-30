@@ -9,7 +9,7 @@ This project adds a Python script to automatically modify the required JSON file
 
 ## JavaScript
 
-Copy and paste the code below onto the client:
+Copy and paste the code below into the client:
 
 ```js
 delete window.$;
