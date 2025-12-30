@@ -1,5 +1,5 @@
 # Complete Disc*** Missions
-For personal use.<br>
+For educational purposes.<br>
 Based of https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb<br><br>
 
 
