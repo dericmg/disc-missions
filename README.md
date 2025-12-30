@@ -1,7 +1,11 @@
 # Complete Disc*** Missions
-For educational purposes.<br>
-Based of https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb<br><br>
 
+Educational purposes only.
+
+Based on  
+https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb
+
+This project adds a Python script to automatically modify the required JSON file, removing the need for manual edits.  
 
 ```js
 delete window.$;
