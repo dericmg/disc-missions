@@ -5,7 +5,11 @@ Educational purposes only.
 Based on  
 https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb
 
-This project adds a Python script to automatically modify the required JSON file, removing the need for manual edits.  
+This project adds a Python script to automatically modify the required JSON file, removing the need for manual edits.
+
+## JavaScript
+
+Copy and paste the code below onto the client:
 
 ```js
 delete window.$;
