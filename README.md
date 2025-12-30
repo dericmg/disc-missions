@@ -10,8 +10,10 @@ This project adds a Python script to automatically modify the required JSON file
 ## Usage
 
 1. Download the release or copy the Python script.
-2. Run the script to update the JSON file.
+2. Run the .exe/script to update the JSON file.
 3. Open Discord and copy and paste the JavaScript code below into the client.
+
+<br>
 
 ```js
 delete window.$;
