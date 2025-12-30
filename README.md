@@ -7,9 +7,11 @@ https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb
 
 This project adds a Python script to automatically modify the required JSON file, removing the need for manual edits.
 
-## JavaScript
+## Usage
 
-Copy and paste the code below into the client:
+1. Download the release or copy the Python script.
+2. Run the script to update the JSON file.
+3. Open Discord and copy and paste the JavaScript code below into the client.
 
 ```js
 delete window.$;
